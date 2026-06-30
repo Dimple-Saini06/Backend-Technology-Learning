@@ -1,0 +1,20 @@
+{
+  "name": "backend-technology-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimple-Saini06/Backend-Technology-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimple-Saini06/Backend-Technology-Learning/issues"
+  },
+  "homepage": "https://github.com/Dimple-Saini06/Backend-Technology-Learning#readme"
+}
