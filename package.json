@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dimple-Saini06/Backend-Technology-Learning/issues"
   },
-  "homepage": "https://github.com/Dimple-Saini06/Backend-Technology-Learning#readme"
+  "homepage": "https://github.com/Dimple-Saini06/Backend-Technology-Learning#readme",
+  "dependencies": {
+    "ejs": "^6.0.1"
+  }
 }
