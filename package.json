@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Dimple-Saini06/Backend-Technology-Learning#readme",
   "dependencies": {
-    "ejs": "^6.0.1"
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
   }
 }

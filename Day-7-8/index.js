@@ -42,7 +42,12 @@ app.get('/rollDice', (req, res)=>{
 
 app.get('/ig/:username', (req, res)=>{
     let {username} = req.params;
+    let followers = ["adam", "bob", "suraj", "shree Jii"];
     console.log("port : ", {username});
+    res.render("instagram.ejs", {username, followers});
+
+
+    
 })
 app.listen(port, ()=>{
     console.log("server created.");
